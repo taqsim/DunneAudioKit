@@ -1,6 +1,7 @@
 // Copyright AudioKit. All Rights Reserved.
 
 #include "EnvelopeGeneratorBase.h"
+#include <cassert>
 #include <cmath>
 
 namespace DunneCore

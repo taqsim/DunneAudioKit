@@ -1,5 +1,7 @@
 // Copyright AudioKit. All Rights Reserved.
 
+#include <cassert>
+
 #include "WaveStack.h"
 #include "kiss_fftr.h"
 
